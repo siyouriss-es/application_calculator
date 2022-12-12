@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">calculatrice</string>
+    <string name="app_name">Calculator</string>
+    <string name="graphique_calculator">Graphic calculator</string>
+    <string name="scientifique_calculator">Scientific calculator</string>
+    <string name="standard">Standard</string>
+    <string name="scientific">Scientific</string>
+    <string name="graphic">Graphic</string>
 </resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/standard"
+    android:title="@string/standard"
+    app:showAsAction="never"
+    android:orderInCategory="100"/>
+    <item
+        android:id="@+id/scientific"
+        android:title="@string/scientific"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/graphic"
+        android:title="@string/graphic"
+        app:showAsAction="never"
+        android:orderInCategory="100"/>
+</menu>

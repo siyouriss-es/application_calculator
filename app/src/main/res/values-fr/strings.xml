@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="graphique_calculator">Calculatrice graphique</string>
+    <string name="scientifique_calculator">Calculatrice scientifique</string>
+    <string name="standard">Standard</string>
+    <string name="scientific">Scientifique</string>
+    <string name="graphic">Graphique</string>
+</resources>
